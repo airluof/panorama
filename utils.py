@@ -12,7 +12,7 @@ from diffusers.utils import load_image
 from huggingface_hub import hf_hub_download
 from PIL import Image
 
-from cog_sdxl.dataset_and_utils import TokenEmbeddingsHandler
+# from cog_sdxl.dataset_and_utils import TokenEmbeddingsHandler
 
 width, height = 1024, 512
 
